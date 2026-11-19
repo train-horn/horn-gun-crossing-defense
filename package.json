@@ -1,0 +1,14 @@
+{
+  "name": "horn-gun-crossing-defense",
+  "version": "1.0.0",
+  "description": "Small HTML5 canvas game: keep critters off a rail crossing with a non-lethal train horn gun. Inverse-square stun falloff.",
+  "private": true,
+  "homepage": "https://train-horn.com/",
+  "repository": "github:train-horn/horn-gun-crossing-defense",
+  "author": "Train Horn (https://train-horn.com/)",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=18" }
+}
